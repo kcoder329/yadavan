@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// comment in routes
+// comment in routes xxxx
 
 Route::get('/', function () {
     return view('welcome');
